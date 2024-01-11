@@ -1,0 +1,1 @@
+<view class="data-v-21645cb2"><view class="logo data-v-21645cb2"><image wx:if="{{a}}" src="{{b}}" class="user-avatar data-v-21645cb2"></image></view><button class="data-v-21645cb2" type="primary" bindtap="{{c}}">微信登录</button></view>
